@@ -11,6 +11,17 @@
             "install_type": "git-clone",
             "description": "ComfyUI-Manager itself is also a custom node."
         },
+		{
+		    "author": "zhaotututu",
+		    "title": "ComfyUI Tutu API for Google Gemini",
+		    "id": "comfyui-tutu-api",
+		    "reference": "https://github.com/zhaotututu/Comfyui_BananaTutuapi",
+		    "files": [
+		        "https://github.com/zhaotututu/Comfyui_BananaTutuapi"
+		    ],
+		    "install_type": "git-clone",
+		    "description": "A ComfyUI custom node for Google Gemini image generation with multiple API providers support (ai.comfly.chat & OpenRouter). Features include 12 professional presets, multi-image input, streaming response, and optimized API calls.",
+		},
         {
             "author": "Dr.Lt.Data",
             "title": "ComfyUI Impact Pack",
