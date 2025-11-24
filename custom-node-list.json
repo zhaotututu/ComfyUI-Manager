@@ -18110,6 +18110,16 @@
             "install_type": "git-clone",
             "description": "You can use this node to get information about lora. For example trigger words, description and example images."
         },
+		{
+       		"author": "zhaotututu",
+        	"title": "ComfyUI-TutuBanana",
+        	"reference": "https://github.com/zhaotututu/ComfyUI-TutuBanana",
+        	"files": [
+            	"https://github.com/zhaotututu/ComfyUI-TutuBanana"
+        	],
+        	"install_type": "git-clone",
+        	"description": "Professional Gemini image generation with 333 prompt templates, multi-platform APIs (OpenRouter/Comfly/Google/T8Star), up to 14 image inputs. 专业Gemini图像生成，333个模板，多平台API支持。",
+    	},
         {
             "author": "ycyy",
             "title": "ComfyUI-YCYY-API",
